@@ -1,0 +1,10 @@
+C:\Users\MONSTER\source\repos\CMPE214\ErrorProvider\bin\Debug\ErrorProvider.exe.config
+C:\Users\MONSTER\source\repos\CMPE214\ErrorProvider\bin\Debug\ErrorProvider.exe
+C:\Users\MONSTER\source\repos\CMPE214\ErrorProvider\bin\Debug\ErrorProvider.pdb
+C:\Users\MONSTER\source\repos\CMPE214\ErrorProvider\obj\Debug\ErrorProvider.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\CMPE214\ErrorProvider\obj\Debug\ErrorProvider.Form1.resources
+C:\Users\MONSTER\source\repos\CMPE214\ErrorProvider\obj\Debug\ErrorProvider.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\CMPE214\ErrorProvider\obj\Debug\ErrorProvider.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\CMPE214\ErrorProvider\obj\Debug\ErrorProvider.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\CMPE214\ErrorProvider\obj\Debug\ErrorProvider.exe
+C:\Users\MONSTER\source\repos\CMPE214\ErrorProvider\obj\Debug\ErrorProvider.pdb
